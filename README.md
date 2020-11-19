@@ -1,10 +1,15 @@
 # Coursera Assignments
 
 ```markdown
-Syntax highlighted code block
-
 ## Web Design for Everybody: Basics of Web Development & Coding
 by University of Michigan
+
+
+
+## Responsive Website Development and Design
+by University of London
+
+
 
 ## HTML, CSS, and Javascript for Web Developers
 by Johns Hopkins University
