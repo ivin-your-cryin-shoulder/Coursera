@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+/********** Base styles **********/
+* {
+	font-family: 'Open Sans', sans-serif;
+	font: 16px;
+}
+
+/*
+.navbar {
+	padding: 0;
+}
+*/
+
+.navbar .nav-link:hover {
+	background-color: #7952B3;
+	color: #ffffff !important;
+	font-weight: bold;
+}
+
+.navbar-brand,
+h1 {
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+.navbar-brand,
+.navbar-toggler {
+	margin: 15px 30px;
+}
+
+.navbar-nav .nav-item {
+	border-top: 1px solid #ffffff;
+}
+
+.navbar-nav li:last-child {
+	border-bottom: 1px solid #ffffff;
+	margin-bottom: 15px;
+}
+
+h1 {
+	margin: 20px 0 40px;
+}
+
+h3 {
+	font-size: 1.6rem;
+}
+
+.jumbotron {
+	padding-top: 10px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.navbar-toggler:hover {
+	border-color: #ffffff;;
+	background-color: #7952B3;
+}
