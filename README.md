@@ -23,10 +23,10 @@ by Johns Hopkins University
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/assignments/HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20by%20Johns%20Hopkins%20University/week3/assignment-3.md/Assignment-3.md)
   
 3. Week Four
-  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera//assignments/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/week4/)
+  * [Assignment output](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/assignments/HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20by%20Johns%20Hopkins%20University/week4/assignment4-solution-starter/easier/index.html)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/assignments/HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20by%20Johns%20Hopkins%20University/week4/Assignment-4.md)
 
 4. Week Five
-  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera//assignments/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/week5/)
+  * [Assignment output](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/assignments/HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20by%20Johns%20Hopkins%20University/week5/assignment5-solution-starter/index.html)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/assignments/HTML%2C%20CSS%2C%20and%20Javascript%20for%20Web%20Developers%20by%20Johns%20Hopkins%20University/week5/Assignment-5.md)
   
