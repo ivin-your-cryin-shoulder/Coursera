@@ -48,14 +48,14 @@ The dropdown menu should take up the entire width of the browser window. Make su
 
 Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
 
- ![Desktop and Tablet](images/desktop.png)
+ ![Desktop and Tablet](../images/desktop.png)
 
 
 Here is the mockup illustration of the mobile view (only required graded parts are shown):
 
- ![mobile collapsed](images/menu-collapsed.png)
+ ![mobile collapsed](../images/menu-collapsed.png)
 
- ![mobile expanded](images/mobile-expanded.png)
+ ![mobile expanded](../images/mobile-expanded.png)
 
 
 **&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**  
