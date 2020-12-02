@@ -14,4 +14,4 @@ by University of London
 ### HTML, CSS, and Javascript for Web Developers
 by Johns Hopkins University
 1. Week Two
-  * [Link](https://ivin-your-cryin-shoulder.github.io/Coursera//assignments/HTML,%20CSS,%20and%20Javascript%20for%20Web%20Developers/week2/)
+  * [Link](https://ivin-your-cryin-shoulder.github.io/Coursera//assignments/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/week2/)
