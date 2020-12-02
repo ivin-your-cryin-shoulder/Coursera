@@ -100,14 +100,14 @@ For a visual reference of this view, see the mobile mockup illustration below.
 
 **Please NOTE: these mockup illustrations show parts that are optional and not graded for this assignment. Please refer to the requirements above to confirm what parts of the mockup are required and graded and what parts are optional.**
 
-Here is the mockup illustration of the desktop version of the site: ![Desktop - optional](images/desktop-optional.png)
+Here is the mockup illustration of the desktop version of the site: ![Desktop - optional](../images/desktop-optional.png)
 
 Here is the mockup illustration of the tablet version of the site:   
 
-![Tablet - optional](images/tablet-optional.png)
+![Tablet - optional](../images/tablet-optional.png)
 
 
 Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
 
-![Mobile - Optional (Closed)](images/mobile-optional-collapsed.png)
-![Mobile - Optional (Open)](images/mobile-optional-expanded.png)
+![Mobile - Optional (Closed)](../images/mobile-optional-collapsed.png)
+![Mobile - Optional (Open)](../images/mobile-optional-expanded.png)
