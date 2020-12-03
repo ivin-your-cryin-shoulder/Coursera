@@ -8,89 +8,11 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
+	<link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../../node_modules/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../../node_modules/bootstrap-social/bootstrap-social.css">
 	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
-	<link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
 	<title>Ristorante Con Fusion</title>
-
-	<!--i included bmy css style for backup purpose only->-->
-	<style>
-		.row-header {
-			margin: 0 auto;
-			padding: 0
-		}
-
-		.row-content {
-			margin: 0 auto;
-			padding: 50px 0 50px 0;
-			border-bottom: 1px ridge;
-			min-height: 350px
-		}
-
-		.footer {
-			background-color: #d1c4e9;
-			margin: 0 auto;
-			padding: 20px 0 20px 0
-		}
-
-		.jumbotron {
-			padding: 70px 30px 70px 30px;
-			margin: 0 auto;
-			background: #9575cd;
-			color: #fffaf0
-		}
-
-		address {
-			font-size: 80%;
-			margin: 0;
-			color: #0f0f0f
-		}
-
-		body {
-			padding: 50px 0 0 0;
-			z-index: 0
-		}
-
-		.navbar-dark {
-			background-color: #512da8
-		}
-
-		.tab-content {
-			border-left: 1px solid #ddd;
-			border-right: 1px solid #ddd;
-			border-bottom: 1px solid #ddd;
-			padding: 10px
-		}
-
-		.carousel {
-			background: #512da8
-		}
-
-		.carousel-item {
-			height: 300px
-		}
-
-		.carousel-item img {
-			position: absolute;
-			top: 0;
-			left: 0;
-			min-height: 300px
-		}
-
-		.rd-box {
-			padding: 0 .25rem .25rem;
-			margin: auto
-		}
-
-		#date,
-		#time {
-			padding-left: 0
-		}
-
-	</style>
 </head>
 
 <body>
@@ -309,7 +231,7 @@
 						<li data-target="#mycarousel" data-slide-to="2"></li>
 					</ol>
 
-					<a class="carousel-control-prev" href="#mycarousel" role="button" dfata-slide="prev">
+					<a class="carousel-control-prev" href="#mycarousel" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon"></span>
 					</a>
 					<a class="carousel-control-next" href="#mycarousel" role="button" data-slide="next">
@@ -317,15 +239,6 @@
 					</a>
 				</div>
 			</div>
-			<div class="btn-group" id="carouselButton">
-				<button class="btn btn-danger btn-sm" id="carousel-pause">
-					<span class="fa fa-pause"></span>
-				</button>
-				<button class="btn btn-danger btn-sm" id="carousel-play">
-					<span class="fa fa-play"></span>
-				</button>
-			</div>
-			
 		</div>
 	</div>
 	<!--	carousel end-->
@@ -348,6 +261,7 @@
 				<h2>Our Lipsmacking Culinary Creations</h2>
 			</div>
 		</div>
+		<hr>
 
 		<!--		media object 2-->
 		<div class="row row-content align-items-center">
@@ -362,6 +276,7 @@
 				<img class="d-flex mr-3 img-thumbnail align-self-center" src="img/buffet.png" alt="buffet">
 			</div>
 		</div>
+		<hr>
 
 		<!--		media object 3-->
 		<div class="row row-content align-items-center">
@@ -381,7 +296,7 @@
 				<h2>Meet Our Culinary Specialists</h2>
 			</div>
 		</div>
-
+		<hr>
 
 	</div>
 
@@ -429,20 +344,9 @@
 	</footer>
 
 	<!-- jQuery first, then Tether, then Bootstrap JS. -->
-	<script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
-	<script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
-	<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-	<script>
-        $(document).ready(function(){
-            $("#mycarousel").carousel( { interval: 2000 } );
-            $("#carousel-pause").click(function(){
-                $("#mycarousel").carousel('pause');
-            });
-            $("#carousel-play").click(function(){
-                $("#mycarousel").carousel('cycle');
-            });
-        });
-    </script>
+	<script src="../../node_modules/jquery/dist/jquery.slim.min.js"></script>
+	<script src="../../node_modules/popper.js/dist/umd/popper.min.js"></script>
+	<script src="../../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 
 </html>
