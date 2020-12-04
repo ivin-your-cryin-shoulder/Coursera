@@ -19,7 +19,7 @@ $carousel-item-height: 300px;
 
 .row-content {
 	@include zero-margin(50px, 0px);
-//	border-bottom: 1px ridge;
+	//	border-bottom: 1px ridge;
 	min-height: 400px;
 }
 
@@ -49,6 +49,16 @@ body {
 	background-color: $background-dark;
 }
 
+.rd-box {
+	padding: 0 .25rem .25rem;
+	margin: auto;
+}
+
+#date,
+#time {
+	padding-left: 0;
+}
+
 .tab-content {
 	border-left: 1px solid $lt-gray;
 	border-right: 1px solid $lt-gray;
@@ -57,34 +67,35 @@ body {
 }
 
 .carousel {
-    background:$background-dark;
+	background: $background-dark;
 
-    .carousel-item {
-        height: $carousel-item-height;
-        img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            min-height: 300px;
-        }
-    }
+	.carousel-item {
+		height: $carousel-item-height;
+
+		img {
+			position: absolute;
+			top: 0;
+			left: 0;
+			min-height: 300px;
+		}
+	}
 }
 
 #carouselButton {
-    right:0px;
-    position: absolute;
-    bottom: 0px;
-    z-index: 1;
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+	z-index: 1;
 }
 
 .modal-header {
 	background-color: $background-dark;
 	color: floralwhite;
-	
+
 	.close {
 		color: floralwhite;
 	}
-	
+
 }
 
 .modal-body {
