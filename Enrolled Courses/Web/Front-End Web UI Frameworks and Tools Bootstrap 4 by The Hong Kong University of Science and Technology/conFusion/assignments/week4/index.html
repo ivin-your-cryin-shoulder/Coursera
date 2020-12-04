@@ -32,8 +32,9 @@
 					<li class="nav-item"><a class="nav-link" href="contactus.html"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
 				</ul>
 				<span class="navbar-text">
-					<a data-toggle="modal" data-target="#loginModal">
-						<span class="fa fa-sign-in"></span> Login</a>
+					<a id="login_btn">
+						<span class="fa fa-sign-in"></span> Login
+					</a>
 				</span>
 			</div>
 		</div>
@@ -180,7 +181,7 @@
 
 				<div class="col-12 col-sm align-self-center">
 					<!-- Reserve btn to toggle modal form-->
-					<a href="#reserveform" data-html="true" role="button" type="button" class="nav-link btn btn-warning btn-sm btn-block font-weight bolder my-sm-5 py-sm-3" data-toggle="modal" data-target="#reserveform"><strong>Reserve Table</strong></a>
+					<a id="reserveform_btn" class="nav-link btn btn-warning btn-sm btn-block font-weight bolder my-sm-5 py-sm-3"><strong>Reserve Table</strong></a>
 				</div>
 			</div>
 		</div>
@@ -347,6 +348,15 @@
 	<script src="../../node_modules/jquery/dist/jquery.slim.min.js"></script>
 	<script src="../../node_modules/popper.js/dist/umd/popper.min.js"></script>
 	<script src="../../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script>
+			$("#login_btn").click(function() {
+				$('#loginModal').modal('show');
+			});
+			
+			$("#reserveform_btn").click(function() {
+				$('#reserveform').modal('show');
+			});
+	</script>
 </body>
 
 </html>
