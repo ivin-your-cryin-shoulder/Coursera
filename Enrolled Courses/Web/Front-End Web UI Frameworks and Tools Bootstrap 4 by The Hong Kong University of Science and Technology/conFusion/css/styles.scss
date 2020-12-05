@@ -19,7 +19,7 @@ $carousel-item-height: 300px;
 
 .row-content {
 	@include zero-margin(50px, 0px);
-	border-bottom: 1px ridge;
+  // deleted border
 	min-height: 400px;
 }
 
