@@ -106,7 +106,7 @@ module.exports = function (grunt) {
 									rebase: false
 								};
 							}
-                        }]
+            }]
 					}
 				}
 			}
