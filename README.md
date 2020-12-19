@@ -29,7 +29,7 @@ by Johns Hopkins University
 ### Full Stack Web and Multiplatform Mobile App Development 
 by The Hong Kong University of Science and Technology
 
-<<<<<<< HEAD
+
 >#### * Front-End Web UI Frameworks and Tools Bootstrap 4 
 
 >1. Week One
@@ -39,7 +39,7 @@ by The Hong Kong University of Science and Technology
 >2. Week Two
 	* [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week2/)
 	* [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week2/assignment-2.md/assignment-2.md)
-=======
+
 #### Front-End Web UI Frameworks and Tools Bootstrap 4 
 1. Week One
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)
@@ -57,9 +57,6 @@ by The Hong Kong University of Science and Technology
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week4/)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week4/assignment-4.md/assignment-4.md)
  
- 
->>>>>>> 06bff2eea48fad6b3e4770be3251bf26a7660f61
-  
 >3. Week Three
 	* [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week3/)
 	* [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week3/assignment-3.md/Assignment-3.md)
