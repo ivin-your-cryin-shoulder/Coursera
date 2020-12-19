@@ -51,8 +51,9 @@ In this task you will be adding a block-sized button to the Jumbotron to the rig
 
 ### Submission
 
-    You should submit the updated index.html file with all the tasks completed. A reviewer should easily be able to take your file and substitute it into their own web project and see it working correctly.
-    Also upload a screenshot of your browser window showing the completed index.html page in png or jpg format.
+* You should submit the updated index.html file with all the tasks completed. A reviewer should easily be able to take your file and substitute it into their own web project and see it working correctly.
+
+* Also upload a screenshot of your browser window showing the completed index.html page in png or jpg format.
 
 ### Review criteria
 

@@ -1,64 +1,87 @@
-## Instructions 
+## Assignment 3: Bootstrap JavaScript Components Instructions 
 
-In this assignment you will add a second page, aboutus.html, to your website. You will make use of the Bootstrap skills learnt in this module to prepare this web page for integration into the website.
+In this assignment you will remove the tooltip from the Reserve table button. Then you will move the table reservation form into a modal that will be shown when the Reserve Table button is clicked. The updated reservation form will include a new radio button group allowing you to select the smoking/non-smoking section of the restaurant.
 
 ### Objectives and Outcomes
 
-In this assignment, you will continue to work with the website that you have been developing in the exercises. You will add the About Us web page to the website. To get you started, you are provided with a partially formatted aboutus.html.zip file given above that you need to download, unzip and move the aboutus.html to the conFusion folder that contains your website. At the end of this assignment, you should have completed the following tasks:
+In this assignment, you will continue to work with the website that you have been developing in the exercises. You will edit the home page (index.html). You will start with the current home page at the end of the last exercise in this module. At the end of this assignment, you should have completed the following tasks:
 
-    Updated the page to make use of Bootstrap classes and Bootstrap grid
-    Formatted the contents of the web page using the container, row and column classes
-    Use the responsive utilities (hidden-* classes) to enable hiding of the detailed descriptions in the extra small screen size devices
+* Moved the table reservation form from the last content row into a modal.
+
+* Included a radio button group in the table reservation form to enable diners to ask for a table in the smoking/non-smoking 
+section of the restaurant.
+
+* Removed the tooltip from the Reserve Table button.
+
+* Updated the Reserve Table button to show the modal containing the table reservation form when the button is clicked.
 
 ### Assignment Requirements
 
-This assignment requires you to complete the following tasks. Detailed instructions for each task are given below. The picture of the completed web page included below indicates the location within the web page that will be updated by the three tasks.
+This assignment requires you to complete the following four tasks. Detailed instructions for each task are given below. The picture of the completed web page included below indicates the location within the web page that will be updated by the four tasks.
 
 ### Task 1
 
-In this task you will be updating the aboutus.html page to make use of the Bootstrap classes and components:
+In this task you will move the table reservation form from the last content row into a modal. You should also remove the last content row.
 
-    Update the page to make use of the Bootstrap CSS classes.
-    Update the page to also use your custom styles defined in your styles.css file, and
-    Update the page to make use of all the Bootstrap JS components.
+* The form should be completely shifted to a modal.
 
+* Add a Cancel button in the form that will dismiss the modal when clicked.
+
+* The modal header should contain a X button to dismiss the modal.
+
+		
 ### Task 2
 
-In this task you will be adding appropriate formatting to the web page contents using container, row and column classes using the Bootstrap grid so that the web page is formatted to look like the figure given below. 
+In this task you will be adding a radio button group to the form to allow the selection of the smoking/non-smoking section of the restaurant.
 
-    The "About Us" title should stretch the entire width of the row. 
-    The "Our History" part should occupy only half the width of the row for small to extra large screens, leaving space on the right side for more content to be added later. The content should be stacked for extra small screens.
-    The "Corporate Leadership" section should stretch the entire width of the row.
-    
-![task1_2](images/task1_2.png)
+* The radio button group should start out with the non-smoking section selected by default.
+
+* The row containing the button group will have the label Section displayed preceding it in the form.
+
+Note: Read Bootstrap Buttons Checkbox/Radio for more information on how to design checkbox/radio buttons.
 
 ### Task 3
 
-In this task you will use some responsive utilities provided by Bootstrap to hide some of the content only for extra small screens. You will make use of the d-none and d-sm-block CSS classes provided by Bootstrap. To understand how to use these classes, please read the documentation here (in particular see how the combination of classes shown here enables you to hide the content for xs screen sizes) to learn how to apply the d-none and d-sm-block classes. This will get you into the habit of consulting the Bootstrap documentation whenever you need to learn more about the various components and classes of Bootstrap. You should apply the classes so that the <p> elements containing the detailed descriptions of the corporate leadership is hidden only for extra small screens. Thus, your page should look like the figure below on extra small screens.
+In this task you will be updating the Reserve Table button in the Jumbotron:
 
-![task3](images/task3.png)
+* Remove the tooltip from the button. This is to facilitate the button to be used to trigger the modal containing the table reservation form in the later tasks. A single button can support only one Javascript plugin via the data-* attributes. Make sure to remove the JavaScript script at the bottom of the page. Also remove the corresponding JavaScript code for the tooltip from the bottom of the page.
 
-More details about the d-none and d-sm-block CSS  classes can be found at http://getbootstrap.com/docs/4.0/utilities/display/.
+* You will update the Reserve Table button to show the modal containing the table reservation form when the button is clicked.
 
-While you are at it, please also apply the same classes to the descriptions in the index.html page. This is not part of the assignment, but should be completed to update your website.
-Review criteria
+At the end of this assignment, your index.html file should look like this:
+
+![task1_2_3](images/task1_2.png)
+
+### Submission
+
+1. You should submit the updated index.html file with all the tasks completed. A reviewer should easily be able to take your file and substitute it into their own web project and see it working correctly. 
+2. Also upload a screenshot of your browser window showing the completed index.html page with the modal containing the table reservation form overlayed on top of the web page in png or jpg format.
+		
+### Review criteria
 
 Upon completion of the assignment, your submission will be reviewed based on the following criteria:
 
-### Task 1:
+### Task 1
 
-    The page is update to correctly use the Bootstrap CSS classes
-    The page is updated correctly to use the custom CSS classes from styles.css
-    The page has been updated to use the all the necessary JavaScript classes
+* The form has been moved into a modal.
 
-### Task 2:
+* The modal HTML code is included towards the top of the body of the page near the other modal code.
 
-    The container class has been applied to the content at the correct location.
-    Row class, including the row-content class has been applied to the rows of the content. Do not apply row-content to the row containing the page heading
-    Column classes have been appropriately applied to the content within each row to provide responsive layout of the content.
+* The modal includes a Cancel button to dismiss the modal.
 
-### Task 3:
+* The modal header includes a X button to dismiss the modal.
 
-    The d-none and d-sm-block classes are correctly applied to the content in the Corporate Leadership section to hide the detailed description of the corporate leaders.
+### Task 2
 
-You are required to include two full-page screenshots of your completed web pages, one for normal screen size, and one for extra small screens. To take a full-page screenshot of your page use the Chrome extension: Full Page Screen Capture.
+* A correct radio button group with the labels non-smoking in green and smoking in red is included in the form. Use the correct 
+button color classes for the buttons.
+
+* The label of the row containing the buttons is set to Section.
+
+* The non-smoking button is checked by default.
+
+### Task 3
+
+* The tooltip has been removed from the Reserve Table button and the corresponding JavaScript code has been removed from the bottom of the page.
+
+* The Reserve Table button will show the modal containing the table reservation form when clicked.
