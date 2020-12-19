@@ -26,15 +26,13 @@ by Johns Hopkins University
 
 
 ### Full Stack Web and Multiplatform Mobile App Development 
-
-#### Front-End Web UI Frameworks and Tools Bootstrap 4 
- by The Hong Kong University of Science and Technology
+*### Front-End Web UI Frameworks and Tools Bootstrap 4 
+by The Hong Kong University of Science and Technology
  
  1. Week One
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/assignment-1.md/Assignment-1.md)
-
-	
+  
 2. Week Two
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week2/)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week2/assignment-2.md/assignment-2.md)
