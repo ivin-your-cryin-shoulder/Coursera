@@ -1,2 +1,4 @@
 node_modules
-dist
+dist_grunt
+dist_gulp
+dist_npm
