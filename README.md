@@ -1,15 +1,21 @@
-# Coursera Assignments 2020
+# Coursera Assignments 2020  
+  <br>
 
-### Web Design for Everybody: Basics of Web Development & Coding (Specialization)
-by University of Michigan
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+## Web Design for Everybody: Basics of Web Development & Coding (Specialization)
+by University of Michigan 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
- * *** Introduction to HTML5 ***
+  <br>
+
+ * ***Introduction to HTML5***
  
   * Week Three
 	 * [Final Project](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/index.html)
-	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)  
+	 <br>
 
- * *** Introduction to CSS3 ***
+ * ***Introduction to CSS3***
  
   * Week One
 	 * [Your First Styled](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/index.html)  
@@ -23,11 +29,12 @@ by University of Michigan
 	 * [Styling A Table](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week4/index.html)  
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week4/assignment-4.md/assignment-4.md)  
 	 
-<br />
-* * *
+  <br>
 
-### HTML, CSS, and Javascript for Web Developers (Course)
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+## HTML, CSS, and Javascript for Web Developers (Course)
 by Johns Hopkins University
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 * Week Two
   * [Module 2 Coding Assignment](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week2/)
@@ -45,12 +52,12 @@ by Johns Hopkins University
   * [Module 5 Coding Assignment](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week5/assignment5-solution-starter/)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week5/Assignment-5.md)  
 	
-<br />
+  <br>
 * * *
-### Responsive Website Development and Design (Specialization) 
+## Responsive Website Development and Design (Specialization) 
 by University of London
 
- *  *** Responsive Web Design ***
+ *  ***Responsive Web Design***
 
   * Week Two  
 	 * [Working with navbars](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/)  
@@ -64,14 +71,14 @@ by University of London
 	 * [Animal gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/)  
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/assignment-4.md/assignment-4.md)  
 	 
-<br />
+  <br>
 * * * 
 
 
-### Full Stack Web and Multiplatform Mobile App Development (Specialization)
+## Full Stack Web and Multiplatform Mobile App Development (Specialization)
 by The Hong Kong University of Science and Technology
 
-* *** Front-End Web UI Frameworks and Tools Bootstrap 4 ***
+* ***Front-End Web UI Frameworks and Tools Bootstrap 4***
 
   * Week One
 	 * [Bootstrap and Responsive Design](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)
