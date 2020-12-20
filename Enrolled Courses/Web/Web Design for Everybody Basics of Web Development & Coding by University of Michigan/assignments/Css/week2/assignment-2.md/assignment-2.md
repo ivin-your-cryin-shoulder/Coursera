@@ -1,6 +1,6 @@
 ## Assignment 2: Advanced Style Instructions
 
-In this assignment you will take my HTML code and create a single css file called hw1.css.  It should style the page following the guidelines provided.  You can see an example final product at  http://www.intro-webdesign.com/CSS/assignment-2/index.jpg  
+In this assignment you will take my HTML code and create a single css file called hw1.css.  It should style the page following the guidelines provided.  You can see an example final product at  [http://www.intro-webdesign.com/CSS/assignment-2/index.jpg]  
 
 ### Review criteria
 
@@ -26,7 +26,7 @@ Specifically, you will use evaluate submissions by answering the following quest
 
 ### Steps:
 
-1) Download the image from http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg and put it into a folder named images. 
+1) Download the image from [http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg and put it into a folder named images]. 
 
 2) Style the following: 
 
@@ -42,4 +42,4 @@ The sections should be next to each other, not one on top of the other.
 
 The images should be part of the page now. In addition, they should have a border, be centered horizontally, and have vertical (top/bottom) space between them and the other images.
 
-I have included a video you can watch to see a live demo of this new site. You can watch it in the next video, or link directly here: https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description
+I have included a video you can watch to see a live demo of this new site. You can watch it in the next video, or link directly here: [https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description]

@@ -1,4 +1,4 @@
-## Assignment 4: Working with navbars Instructions
+## Assignment 4: Animal gallery Instructions
 
 In this assignment, you will edit an existing web page by adding code to a template and passing data into a template rendering function. You will also think about how to best display the information. 
 

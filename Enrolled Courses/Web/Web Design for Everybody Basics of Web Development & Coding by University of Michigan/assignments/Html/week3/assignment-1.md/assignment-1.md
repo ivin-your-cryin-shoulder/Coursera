@@ -23,7 +23,7 @@ You must submit a single HTML file.  (Make sure that you link to image at http:/
 
 ### How to create your assignment:
 
-Follow the instructions in the text description and the video to prepare your assignment.  If you have trouble with images, I have also included a textual description of the required components at http://intro-webdesign.com/projectdescription.html.
+Follow the instructions in the text description and the video to prepare your assignment.  If you have trouble with images, I have also included a textual description of the required components at [http://intro-webdesign.com/projectdescription.html].
 
 ### Examples of Good Feedback
 

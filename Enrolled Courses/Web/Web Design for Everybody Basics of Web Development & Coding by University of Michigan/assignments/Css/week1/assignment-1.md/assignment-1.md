@@ -41,4 +41,4 @@ Style the page using the following rules:
 
 6 ) The images should not appear on the page
 
-I have included a video showing examples of each of these styles. The video goes beyond the requirements, but it is probably a good starting point and it is a nice way to see the end results. You can watch it here, or follow on to the next link in the course. https://www.coursera.org/teach/introcss/author/lecture/ta7aA/video-subtitles
+I have included a video showing examples of each of these styles. The video goes beyond the requirements, but it is probably a good starting point and it is a nice way to see the end results. You can watch it here, or follow on to the next link in the course. [https://www.coursera.org/teach/introcss/author/lecture/ta7aA/video-subtitles]
