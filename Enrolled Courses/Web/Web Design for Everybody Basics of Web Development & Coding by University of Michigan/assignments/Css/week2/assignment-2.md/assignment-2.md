@@ -1,32 +1,45 @@
-## Assignment: Final Project Instructions
+## Assignment 2: Advanced Style Instructions
 
-In the final project students will demonstrate the ability to use HTML5 tags to create a valid web page. 
+In this assignment you will take my HTML code and create a single css file called hw1.css.  It should style the page following the guidelines provided.  You can see an example final product at  http://www.intro-webdesign.com/CSS/assignment-2/index.jpg  
 
 ### Review criteria
 
-1. Was the doctype included correctly? (<!DOCTYPE html>)
-2. Is there a head tag with a title for the page?
-3. Is there a body tag?
-4. Is there a nag tag with four anchor tags inside? Did they remember to change the text for the fourth link?
-5. Is the Favorite Foods section complete with an h2 heading and four unordered list items?
-6. Is the Achievements section complete with an h2 heading and three progress bars?
-7. Is the More About Me section complete with an h2 heading and a details and summary tag?
-8. Is the image correctly linked?
-9. Is the link to intro-webdesign working?
-10. Does everything else on the page appear to be where it belongs?
+You will review each submission based on whether each objective/style is achieved or not, and at what level.  (For instance, did they put in background-color and if so, did they use hexadecimal or rgb.)
 
-### Step-By-Step Assignment Instructions
+Specifically, you will use evaluate submissions by answering the following questions: 
 
-### How to submit:
+* Does the body have padding and or margin?
 
-You must submit a single HTML file.  (Make sure that you link to image at http://intro-webdesign.com, not one of your own images.
+* Is the header styled?
 
-### How to create your assignment:
+* Are ONLY the links in navigation styled, not the other links?
 
-Follow the instructions in the text description and the video to prepare your assignment.  If you have trouble with images, I have also included a textual description of the required components at http://intro-webdesign.com/projectdescription.html.
+* Are the links styled?
 
-### Examples of Good Feedback
+* Is the “active” class styled to clearly show which page is the current page?
 
-As a reviewer, you will be required to provide feedback on other people's assignment.
+* Are the two sections side-by-side? 
 
-When providing feedback, it is a good practice to first indicate what the learner did well on the assignment. After that, help the learner improve by providing specific, actionable advice.  Don't feel badly about pointing out mistakes - we are all here to learn.
+* Are the images styled?
+
+### Instructions
+
+### Steps:
+
+1) Download the image from http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg and put it into a folder named images. 
+
+2) Style the following: 
+
+The body should have padding and margin 
+
+The header should have a background color, background image (using a local image), and padding 
+
+The navigation links (and only the links in the navigation) should be styled with a new display, margin, border-radius, text-decoration, and padding 
+
+The link to the current page should be styled differently from the other links (using class = "active') 
+
+The sections should be next to each other, not one on top of the other. 
+
+The images should be part of the page now. In addition, they should have a border, be centered horizontally, and have vertical (top/bottom) space between them and the other images.
+
+I have included a video you can watch to see a live demo of this new site. You can watch it in the next video, or link directly here: https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description

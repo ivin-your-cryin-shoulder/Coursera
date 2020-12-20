@@ -13,6 +13,10 @@ by University of Michigan
 1. Week One
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/index.html)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/assignment-1.md/assignment-1.md)
+	
+2. Week Two
+  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week2/index.html)
+  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week2/assignment-2.md/assignment-2.md)
 
 
 <br />

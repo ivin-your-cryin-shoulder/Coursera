@@ -1,4 +1,4 @@
-## Assignment: Final Project Instructions
+## Assignment 1: Your First Styled Site Instructions
 
 In this assignment you will take my HTML code and create a single html file called hw1.css.  It should style the page following the guidelines provided. See example final product below. 
 
