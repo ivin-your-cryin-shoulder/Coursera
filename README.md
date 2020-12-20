@@ -7,10 +7,12 @@ by University of Michigan
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/index.html)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)
 	
-#### * Introduction to HTML5
-1. Week Three
-  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week2/)
-  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week2/assignment-2.md/Assignment-2.md)
+	
+	
+#### * Introduction to CSS3
+1. Week One
+  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/index.html)
+  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/assignment-1.md/assignment-1.md)
 
 
 <br />
