@@ -1,52 +1,32 @@
-## Assignment 2: Working with navbars Instructions
+## Assignment: Final Project Instructions
 
-In this exercise, you will learn how to work with navbar code by customising a navbar we have created for you. 
-
-You will download some starter code, then you will edit the code, changing the navbar according to the instructions. 
-
-You then have to upload screenshots of your navbar in a normal and collapsed form. Your peers will visually inspect the navbars to ensure you have made the requested changes. 
-
-It should not take more than 15-30 minutes to complete. 
+In the final project students will demonstrate the ability to use HTML5 tags to create a valid web page. 
 
 ### Review criteria
 
-You will be graded based on whether or not you have made the requested changes to the navbar. Your peers will visually inspect screenshots of the navbar that you provide. 
+1. Was the doctype included correctly? (<!DOCTYPE html>)
+2. Is there a head tag with a title for the page?
+3. Is there a body tag?
+4. Is there a nag tag with four anchor tags inside? Did they remember to change the text for the fourth link?
+5. Is the Favorite Foods section complete with an h2 heading and four unordered list items?
+6. Is the Achievements section complete with an h2 heading and three progress bars?
+7. Is the More About Me section complete with an h2 heading and a details and summary tag?
+8. Is the image correctly linked?
+9. Is the link to intro-webdesign working?
+10. Does everything else on the page appear to be where it belongs?
 
 ### Step-By-Step Assignment Instructions
 
-### Step 1:
+### How to submit:
 
-Download the starter code to your computer.
+You must submit a single HTML file.  (Make sure that you link to image at http://intro-webdesign.com, not one of your own images.
 
-### Step 2:
+### How to create your assignment:
 
-Unzip the file you just downloaded.
-    
+Follow the instructions in the text description and the video to prepare your assignment.  If you have trouble with images, I have also included a textual description of the required components at http://intro-webdesign.com/projectdescription.html.
 
+### Examples of Good Feedback
 
-### Step 3
-Open the index.html file in your text editor and your browser, then make and test the following changes:
+As a reviewer, you will be required to provide feedback on other people's assignment.
 
-* Edit the text 'Project name' that is at the left of the navbar  so it is is your name 
-
-* Edit the text 'Item 1' and 'Item 2' to be 'CV' and 'Portfolio'. 
-
-* Edit the text 'Dropdown' to be 'Contact'. 
-
-* Edit the items in drop down menu so it contains 'Email' and 'Skype'.
-
-### Step 4:
-
-Prepare two screenshots for submission:
-	
-1. The navbar as it would appear on a desktop computer screen - it should be in non-collapsed, horizontal form (see the example). Make sure the dropdown menu it in its expanded form. 
-2. The navbar as it would appear on a narrow mobile screen. It should be in its vertical form (see the example). Make sure the dropdown menu is in its expanded form. 
-
-### Example Submissions
-
-![task1_2](images/example_1.png)
-
-Here is an example of screenshot 2:
-<br><br>
-
-![task3](images/example_2.png)
+When providing feedback, it is a good practice to first indicate what the learner did well on the assignment. After that, help the learner improve by providing specific, actionable advice.  Don't feel badly about pointing out mistakes - we are all here to learn.

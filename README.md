@@ -2,7 +2,18 @@
 
 ### Web Design for Everybody: Basics of Web Development & Coding (Specialization)
 by University of Michigan
+#### * Introduction to HTML5
+1. Week Three
+  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/index.html)
+  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)
+	
+#### * Introduction to HTML5
+1. Week Three
+  * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week2/)
+  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week2/assignment-2.md/Assignment-2.md)
 
+
+<br />
 ### Responsive Website Development and Design (Specialization) 
 by University of London
 
@@ -23,7 +34,7 @@ by University of London
 4. Week Five
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week5/assignment5-solution-starter/)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/HTML, CSS, and Javascript for Web Developers by Johns Hopkins University/assignments/week5/Assignment-5.md)
-<br>
+<br />
 
 
 ### HTML, CSS, and Javascript for Web Developers
@@ -40,7 +51,7 @@ by Johns Hopkins University
 3. Week Four
   * [Assignment output](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/)
   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/assignment-4.md/assignment-4.md)
-<br>
+<br />
 
 
 ### Full Stack Web and Multiplatform Mobile App Development (Specialization)
