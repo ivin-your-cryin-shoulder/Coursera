@@ -10,7 +10,7 @@ by University of Michigan
 * ### ***Introduction to HTML5***
 
   * Week Three
-	 * [Final Project](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/index.html)
+	 * [Final Project](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/)
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)  
 	 <br>
@@ -18,19 +18,19 @@ by University of Michigan
 * ### ***Introduction to CSS3***
  
   * Week One
-	 * [Your First Styled](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/index.html)  
+	 * [Your First Styled](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/)  
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/assignment-1.md/assignment-1.md)  
 	 <br>
 	 
   * Week Two
-	 * [Advanced Style](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week2/index.html)  
+	 * [Advanced Style](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week2/)  
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week2/assignment-2.md/assignment-2.md)  
 	 <br>
 	 
   * Week Four  
-	 * [Styling A Table](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week4/index.html) 
+	 * [Styling A Table](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week4/) 
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week4/assignment-4.md/assignment-4.md)  
 	 <br>
@@ -38,13 +38,13 @@ by University of Michigan
 * ### ***Interactivity with JavaScript***
 
   * Week Two
-	 * [JavaScript Interactive Photo Gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/index.html)
+	 * [JavaScript Interactive Photo Gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/)
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/assignment-2.md/assignment-2.md)  
 	 <br>
 	 
   * Week Four  
-  	 * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/index.html)  
+  	 * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/)  
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/assignment-4.md/assignment-4.md)  
 	 <br>
@@ -52,13 +52,13 @@ by University of Michigan
 * ### ***Advanced Styling with Responsive Design***
 
   * Week Two
-  	 * [OPTIONAL -- Create a responsive style sheet ](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/index.html)
+  	 * [OPTIONAL -- Create a responsive style sheet ](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/)
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/assignment-2.md/assignment-2.md)  
 	 <br>
 
   * Week Three
-  	 * [OPTIONAL - Use Bootstrap to create a responsive page](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week3/index.html)
+  	 * [OPTIONAL - Use Bootstrap to create a responsive page](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week3/)
 	 
 	  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week3/assignment-3.md/assignment-3.md)  
 	  <br>
