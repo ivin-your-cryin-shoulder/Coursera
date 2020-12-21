@@ -1,6 +1,6 @@
 ## Assignment 2: OPTIONAL -- Create a responsive style sheet Instructions
 
-This is an ***optional assignment***.  My hope is that by making all Peer graded assessments optional, only students who are willing to put in clear feedback will take part.  It is fine if your submission is not perfect, or even if you are still struggling on it.  But please make sure that you are willing to look closely at your peers' work.
+This is an <u>***optional assignment***</u>.  My hope is that by making all Peer graded assessments optional, only students who are willing to put in clear feedback will take part.  It is fine if your submission is not perfect, or even if you are still struggling on it.  But please make sure that you are willing to look closely at your peers' work.
 
 Write a style sheet that will provide three different views of a single HTML file.
 
@@ -38,7 +38,7 @@ The code can be found at [http://codepen.io/ColleenEMc/pen/yOBezm] or you can do
 
 Now lets do some Responsive Design!!
 
-**Large screen view**
+<u>**Large screen view**</u>
 
 Create a new look for screen sizes that are greater than 900px.  It should look very similar to this:
 
