@@ -63,7 +63,7 @@ by University of London
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
 <br>
 
-*  ***Responsive Web Design***
+* ***Responsive Web Design***
 
   * Week Two  
   	 * [Working with navbars](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/)  
