@@ -43,8 +43,8 @@ by University of Michigan
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/assignment-2.md/assignment-2.md)  
 	 <br>
 	 
-  * Week Four
-   	 * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/index.html)  
+  * Week Four  
+  	 * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/index.html)  
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/assignment-4.md/assignment-4.md)  
 	 <br>
