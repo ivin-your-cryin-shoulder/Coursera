@@ -54,7 +54,14 @@ by University of Michigan
   * Week Two
   	 * [OPTIONAL -- Create a responsive style sheet ](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/index.html)
 	 
-	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/assignment-2.md/assignment-2.md) 
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/assignment-2.md/assignment-2.md)  
+	 <br>
+
+  * Week Three
+  	 * [OPTIONAL - Use Bootstrap to create a responsive page](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week3/index.html)
+	 
+	  * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week3/assignment-3.md/assignment-3.md)  
+	  <br>
 	 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ## 2. HTML, CSS, and Javascript for Web Developers (Course)
