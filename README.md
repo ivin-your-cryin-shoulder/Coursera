@@ -94,12 +94,14 @@ by University of London
 	 <br>
   
   * Week Three  
-	 * [Edit a template](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week3/)  
+	 * [Edit a template](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week3/)
+	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week3/assignment-3.md/assignment-3.md)  
 	 <br>
   
   * Week Four  
 	 * [Animal gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/)  
+	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week4/assignment-4.md/assignment-4.md)  
 	 <br>
  
@@ -113,6 +115,7 @@ by The Hong Kong University of Science and Technology
 
   * Week One  
   	 * [Bootstrap and Responsive Design](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)  
+	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/assignment-1.md/Assignment-1.md)  
 	 <br>
 
