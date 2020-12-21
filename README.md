@@ -38,11 +38,17 @@ by University of Michigan
 * ### ***Interactivity with JavaScript***
 
   * Week Two
-  	 * [JavaScript Interactive Photo Gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/index.html)
+   * [JavaScript Interactive Photo Gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/index.html)
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/assignment-2.md/assignment-2.md)  
 	 <br>
-
+	 
+  * Week Four
+   * [JavaScript Interactive Photo Gallery](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/index.html)
+	 
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week2/assignment-2.md/assignment-2.md)  
+	 <br>
+	 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ## 2. HTML, CSS, and Javascript for Web Developers (Course)
 by Johns Hopkins University
