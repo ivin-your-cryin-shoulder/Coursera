@@ -48,6 +48,13 @@ by University of Michigan
 	 
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/assignment-4.md/assignment-4.md)  
 	 <br>
+
+* ### ***Advanced Styling with Responsive Design***
+
+  * Week Two
+  	 * [OPTIONAL -- Create a responsive style sheet ](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/index.html)
+	 
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Responsive Design/week2/assignment-2.md/assignment-2.md) 
 	 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ## 2. HTML, CSS, and Javascript for Web Developers (Course)
