@@ -7,7 +7,7 @@ by University of Michigan
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
 <br>
 
-* ***Introduction to HTML5***
+* ### ***Introduction to HTML5***
 
   * Week Three
   	 * [Final Project](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/index.html)
@@ -15,7 +15,7 @@ by University of Michigan
 	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Html/week3/assignment-1.md/assignment-1.md)  
 	 <br>
 
-* ***Introduction to CSS3***
+* ### ***Introduction to CSS3***
  
   * Week One
   	 * [Your First Styled](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Css/week1/index.html)  
@@ -71,7 +71,7 @@ by University of London
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
 <br>
 
-* ***Responsive Web Design***
+* ### ***Responsive Web Design***
 
   * Week Two  
   	 * [Working with navbars](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/)  
@@ -95,7 +95,7 @@ by The Hong Kong University of Science and Technology
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  
 <br>
 
-* ***Front-End Web UI Frameworks and Tools Bootstrap 4***
+* ### ***Front-End Web UI Frameworks and Tools Bootstrap 4***
 
   * Week One
   	 * [Bootstrap and Responsive Design](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)
