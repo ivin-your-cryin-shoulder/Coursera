@@ -44,9 +44,9 @@ by University of Michigan
 	 <br>
 	 
   * Week Four
-   * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/index.html)
+   	 * [Autocomplete with JavaScript](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/index.html)  
 	 
-   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/assignment-4.md/assignment-4.md)  
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Web Design for Everybody Basics of Web Development & Coding by University of Michigan/assignments/Javascript/week4/assignment-4.md/assignment-4.md)  
 	 <br>
 	 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -88,9 +88,9 @@ by University of London
 * ### ***Responsive Web Design***
 
   * Week Two  
-   * [Working with navbars](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/)  
+   	 * [Working with navbars](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/)  
 	 
-   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/assignment-2.md/assignment-2.md)  
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Responsive Website Development and Design by University of London/Responsive Web Design/assignments/week2/assignment-2.md/assignment-2.md)  
 	 <br>
   
   * Week Three  
@@ -112,9 +112,8 @@ by The Hong Kong University of Science and Technology
 * ### ***Front-End Web UI Frameworks and Tools Bootstrap 4***
 
   * Week One
-   * [Bootstrap and Responsive Design](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)
-	 
-   * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/assignment-1.md/Assignment-1.md)  
+   	 * [Bootstrap and Responsive Design](https://ivin-your-cryin-shoulder.github.io/Coursera/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/aboutus.html)  
+	 * [Readme.md](https://github.com/ivin-your-cryin-shoulder/Coursera/blob/main/Enrolled Courses/Web/Front-End Web UI Frameworks and Tools Bootstrap 4 by The Hong Kong University of Science and Technology/conFusion/assignments/week1/assignment-1.md/Assignment-1.md)  
 	 <br>
 
   * Week Two
